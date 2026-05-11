@@ -1,0 +1,7 @@
+{
+  "parent": "rox_dev:custom/hover_paw_-_converted",
+  "textures": {
+    "0": "rox_dev:block/hover_paw",
+    "particle": "rox_dev:item/hover_paw"
+  }
+}

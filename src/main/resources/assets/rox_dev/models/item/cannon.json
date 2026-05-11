@@ -1,0 +1,7 @@
+{
+  "parent": "rox_dev:custom/1bazooka_cannon_-_converted",
+  "textures": {
+    "1": "rox_dev:block/bazooka_caoon",
+    "particle": "rox_dev:item/bazooka_caoon"
+  }
+}

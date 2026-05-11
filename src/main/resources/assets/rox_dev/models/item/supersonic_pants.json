@@ -1,0 +1,6 @@
+{
+  "parent": "rox_dev:displaysettings/display_pants_converted",
+  "textures": {
+    "layer0": "rox_dev:item/bio_pants"
+  }
+}
