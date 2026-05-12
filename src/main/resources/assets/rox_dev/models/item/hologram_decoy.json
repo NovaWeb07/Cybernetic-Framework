@@ -1,6 +1,0 @@
-{
-  "parent": "rox_dev:displaysettings/displayhologramdecoy_-_converted",
-  "textures": {
-    "layer0": "rox_dev:item/hologram_decoy"
-  }
-}

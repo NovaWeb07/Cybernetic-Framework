@@ -1,0 +1,7 @@
+{
+  "parent": "nova_dev:custom/1bazooka_cannon_-_converted",
+  "textures": {
+    "1": "nova_dev:block/bazooka_caoon",
+    "particle": "nova_dev:item/bazooka_caoon"
+  }
+}

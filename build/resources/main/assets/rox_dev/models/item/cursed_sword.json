@@ -1,0 +1,7 @@
+{
+  "parent": "rox_dev:custom/diamond_sword_-_converted_-_converted",
+  "textures": {
+    "0": "rox_dev:block/diamond_sword",
+    "particle": "rox_dev:item/diamond_sword"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "nova_dev:displaysettings/proto_display_-_converted",
+  "textures": {
+    "layer0": "nova_dev:item/proto"
+  }
+}

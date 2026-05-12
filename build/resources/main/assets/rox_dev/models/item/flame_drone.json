@@ -1,0 +1,6 @@
+{
+  "parent": "rox_dev:displaysettings/displayflamedrone_-_converted",
+  "textures": {
+    "layer0": "rox_dev:item/flamedrone"
+  }
+}

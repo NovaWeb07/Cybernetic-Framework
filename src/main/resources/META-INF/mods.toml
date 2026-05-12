@@ -3,17 +3,17 @@ loaderVersion="[47,)"
 license="Not specified"
 
 [[mods]]
-modId="rox_dev"
+modId="nova_dev"
 version="1.0.0"
-displayName="ROX DEV"
-displayURL="https://mcreator.net"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-authors="prady, MCreator"
+displayName="NovaDev"
+displayURL="https://NovaDev.net"
+credits="Created using mod maker NovaDev - https://NovaDev.net/about"
+authors="prady, NovaDev"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration
 
-[[dependencies.rox_dev]]
+[[dependencies.nova_dev]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.20.1]"
@@ -21,7 +21,7 @@ authors="prady, MCreator"
     side="BOTH"
 
 
-[[dependencies.rox_dev]]
+[[dependencies.nova_dev]]
     modId="geckolib"
     mandatory=false
     versionRange="[0,)"

@@ -1,0 +1,6 @@
+{
+  "parent": "nova_dev:displaysettings/displaycybernetic_recall_pearl_-_converted",
+  "textures": {
+    "layer0": "nova_dev:item/cyber_pearl"
+  }
+}

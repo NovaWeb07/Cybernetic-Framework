@@ -1,6 +1,6 @@
 {
   "replace": false,
   "entries": [
-    "rox_dev:block_randomizer"
+    "nova_dev:block_randomizer"
   ]
 }

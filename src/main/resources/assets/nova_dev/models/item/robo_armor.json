@@ -1,0 +1,6 @@
+{
+  "parent": "nova_dev:displaysettings/robodisplay_-_converted",
+  "textures": {
+    "layer0": "nova_dev:item/roboflame"
+  }
+}

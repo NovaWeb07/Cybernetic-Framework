@@ -1,0 +1,7 @@
+{
+  "parent": "nova_dev:custom/flamesushi_-_converted",
+  "textures": {
+    "4": "nova_dev:block/flame_sushi",
+    "particle": "nova_dev:item/flame_sushi"
+  }
+}

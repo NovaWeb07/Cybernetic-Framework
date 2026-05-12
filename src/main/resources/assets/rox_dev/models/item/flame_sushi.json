@@ -1,7 +1,0 @@
-{
-  "parent": "rox_dev:custom/flamesushi_-_converted",
-  "textures": {
-    "4": "rox_dev:block/flame_sushi",
-    "particle": "rox_dev:item/flame_sushi"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "rox_dev:displaysettings/displayhammer_-_converted",
-  "textures": {
-    "layer0": "rox_dev:item/flamehammer"
-  }
-}

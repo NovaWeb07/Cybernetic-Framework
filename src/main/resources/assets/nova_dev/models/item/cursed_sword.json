@@ -1,0 +1,7 @@
+{
+  "parent": "nova_dev:custom/diamond_sword_-_converted_-_converted",
+  "textures": {
+    "0": "nova_dev:block/diamond_sword",
+    "particle": "nova_dev:item/diamond_sword"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "nova_dev:custom/hover_paw_-_converted",
+  "textures": {
+    "0": "nova_dev:block/hover_paw",
+    "particle": "nova_dev:item/hover_paw"
+  }
+}

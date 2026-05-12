@@ -1,0 +1,6 @@
+{
+  "parent": "rox_dev:displaysettings/drill_display_-_converted",
+  "textures": {
+    "layer0": "rox_dev:item/drill"
+  }
+}
